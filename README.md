@@ -71,12 +71,12 @@ Bling bling = new Bling.Builder('viewgroup' or 'activity')
     .setBlingListener(new BlingListener() {
         @Override
         public void onBegin() {
-			//begin to fall
+            //begin to fall
         }
 
         @Override
         public void onEnd() {
-			//end to fall
+            //end to fall
         }
     })
     .build(); 
