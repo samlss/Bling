@@ -94,7 +94,7 @@ bling.release(); //To release Bling & remove the bling view immediately.
 ### License
 
 ```
-Copyright 2018 samlss
+Copyright 2019 samlss
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
